@@ -6,3 +6,5 @@ let pregunta = prompt("Cómo te fue en tu día?");
 alert("No soy la matrix, pero espero que hayas respondido que bien");
 let preguntaDos = prompt("Por ahora me despido, podemos seguir por whatsapp, tipee OK para salir");
 alert("Nos vemos en whatsapp, hermoso <3");
+
+console.log(nombre);
